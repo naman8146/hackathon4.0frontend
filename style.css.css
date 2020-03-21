@@ -1,0 +1,30 @@
+body
+{
+	background-color:grey;
+}
+.bg-black
+{
+	background-color: black;
+}
+img
+{
+	width: 100%;
+	height:100%;
+}
+.font-div
+{
+	width:30%;
+}
+.btn
+{
+	color: white;
+}
+/*///// responsive////*/
+
+@media only screen and (min-width: 1198px)
+{
+	.font-div
+	{
+		padding: 43.5px 0px!important;
+	}
+}
